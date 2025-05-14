@@ -1,0 +1,8 @@
+SQLAlchemy
+werkzeug
+flask
+wtforms
+Flask-Login
+Flask-RESTful
+Flask-WTF
+sqlalchemy-serializer
