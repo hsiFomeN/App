@@ -1,8 +1,4 @@
-SQLAlchemy
-werkzeug
-flask
-wtforms
-Flask-Login
-Flask-RESTful
-Flask-WTF
-sqlalchemy-serializer
+flask==2.2.5
+SQLAlchemy~=2.0.29
+werkzeug~=2.2.3
+wtforms~=3.0.1
